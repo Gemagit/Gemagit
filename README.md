@@ -7,6 +7,6 @@ const gemaGit = {
   };
   
 
-let miPotencial =["trabajadora","creativa","persuasiva","sociable"];
+var miPotencial =["trabajadora","creativa","persuasiva","sociable"];
 
 
