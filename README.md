@@ -9,7 +9,4 @@ const gemaGit = {
 
 let miPotencial =["trabajadora","creativa","persuasiva","sociable"];
 
-<!--
-**Gemagit/Gemagit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
--->
