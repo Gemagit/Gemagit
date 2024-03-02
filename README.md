@@ -10,4 +10,4 @@ const gemaGit = {
 var miPotencial =["trabajadora","creativa","persuasiva","sociable"];
 
 
-[linkedin] https://www.linkedin.com/in/gema-millan-casado-102615231/
+
