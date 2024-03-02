@@ -14,11 +14,7 @@ const gemaGit = {
 
 var misAptitudes =["trabajadora","creativa","persuasiva","sociable","flexible"];
 
-<!--
 
-
-
--->
 
 
 
