@@ -7,7 +7,7 @@ const gemaGit = {
   };
   
 
-var miCapacidad =["trabajadora","creativa","persuasiva","sociable"];
+var miAptitud =["trabajadora","creativa","persuasiva","sociable"];
 
 
 
