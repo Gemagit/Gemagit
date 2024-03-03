@@ -29,7 +29,7 @@ var misAptitudes =["trabajadora","creativa","persuasiva","sociable","flexible"];
 
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/gemamillan_photo)
 
-<a href='https://www.instagram.com/p/B01ca7llip7' target='_blank'>
-  <img width='20%' src='(https://www.instagram.com/p/B01ca7llip7/)https://www.instagram.com/p/B01ca7llip7/' alt='Instagram photo' />
+<a href='[https://www.instagram.com/p/B01ca7llip7](https://www.instagram.com/p/B01ca7llip7/)' target='_blank'>
+  <img width='20%' src='https://www.instagram.com/p/B01ca7llip7/' alt='Instagram photo' />
 </a>
 
