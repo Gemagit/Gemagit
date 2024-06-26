@@ -1,7 +1,7 @@
 
  <Hello world, I'm Gema!/>
 
-[![Linkedin: gemamillan](https://img.shields.io/badge/-gemamillan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gema-millan-casado/) (https://www.linkedin.com/in/gema-millan-casado/)
+[![Linkedin: gemamillan](https://img.shields.io/badge/-gemamillan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gema-millan-casado/) (https://www.linkedin.com/in/gema-mill%C3%A1n-casado-102615231/)
 
 [![GitHub Gemagit](https://img.shields.io/github/followers/Gemagit?label=follow&style=social)](https://github.com/Gemagit))
 
