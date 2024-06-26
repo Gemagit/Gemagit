@@ -22,7 +22,7 @@ var misAptitudes =["trabajadora","creativa","persuasiva","sociable","flexible"];
 
 ```
 
-
+<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHc5eWc4Y3dmNzFoYXpyNXdyYXVqemtiemM3emRteDZjMGMxdzFkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12i72uuHXWrTNu/giphy.gif" width="230">
 
 
 
