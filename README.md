@@ -20,12 +20,7 @@ const gemaGit = {
 var misAptitudes =["trabajadora","creativa","persuasiva","sociable","flexible"];
 
 ```
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="(https://www.linkedin.com/in/gema-mill%C3%A1n-casado-102615231/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gema millán casado" height="30" width="40" /></a>
-<a href="https://instagram.com/gemamillan_photo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gemamillan_photo" height="30" width="40" /></a>
-<a href="https://discord.gg/gemita_71179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gemita_71179" height="30" width="40" /></a>
-</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
