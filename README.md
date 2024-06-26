@@ -1,6 +1,9 @@
 
  <Hello world, I'm Gema!/>
 
+ [![Linkedin: gemamillan](https://www.linkedin.com/in/gema-mill%C3%A1n-casado-102615231/)](https://www.linkedin.com/in/gemamillancasado/)
+[![GitHub Gemagit](https://img.shields.io/github/followers/Gemagit?label=follow&style=social)](https://github.com/Gemagit))
+
 ![WhatsApp Image 2024-03-02 at 20 50 24](https://github.com/Gemagit/Gemagit/assets/143506667/f3e8d70d-84b0-431e-bafd-3c19cceb690f)
 
  ```js
