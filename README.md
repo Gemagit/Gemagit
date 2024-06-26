@@ -1,6 +1,6 @@
 
 <h2> Hi, I'm Gema! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU0OTFjdHIxY3dleXl4YmEzYmhyNGVhMzF2bGdva3JjNDRrdmhiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnt7CnHW0Yyo8oM/giphy.gif" width="230">
+<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDl4YmlzMHh5aGczNzR1NjljZTBlNTB5MmYxdDk2ZTVsZDE4aHlmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornjPby6F2oHVkJQA/giphy.gif" width="230">
 
 [![Linkedin: gemamillan](https://img.shields.io/badge/-gemamillan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gema-millan-casado/)](https://www.linkedin.com/in/gema-mill%C3%A1n-casado-102615231/)
 [![GitHub Gemagit](https://img.shields.io/github/followers/Gemagit?label=follow&style=social)](https://github.com/Gemagit)
