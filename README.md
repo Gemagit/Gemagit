@@ -9,7 +9,8 @@
 
 const gemaGit = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, React, Node, Express, Postgre SQL, Mongo Db]
+  code: [Javascript, HTML, CSS],
+  tools: [React, Node, Express, Postgre SQL, Mongo Db, Docker]
   };
   
 
