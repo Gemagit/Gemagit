@@ -1,7 +1,7 @@
 
 <h2> Hi, I'm Gema! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHc5eWc4Y3dmNzFoYXpyNXdyYXVqemtiemM3emRteDZjMGMxdzFkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12i72uuHXWrTNu/giphy.gif" width="230">
-<img align='right' src="![final-1](https://github.com/user-attachments/assets/bceb9598-d0d2-48f5-bfa4-499517a7926a)" width="230">
+<img align='right' src="https://github.com/user-attachments/assets/bceb9598-d0d2-48f5-bfa4-499517a7926a" width="230">
 
 
 
