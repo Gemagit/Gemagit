@@ -16,12 +16,12 @@
 
 const gemaGit = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Node, Express, PostgreSQL, MongoDb, Docker]
-  };
+  code: [Javascript, Java, HTML, CSS],
+  tools: [React, Node, Express, Spring Boot, PostgreSQL, Oracle, DB2, MongoDb, Docker]
+};
   
 
-var misAptitudes =["trabajadora","creativa","persuasiva","sociable","flexible"];
+var misAptitudes = ["trabajadora","creativa","persuasiva","sociable","flexible"];
 
 ```
 
